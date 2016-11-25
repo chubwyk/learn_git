@@ -7,3 +7,6 @@ git checkout -b <new-branch-name>
 
 * Check the branches
 git branch
+
+More practice on new branch:
+Create my-new-branch-2
