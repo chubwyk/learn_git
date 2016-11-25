@@ -3,6 +3,7 @@ Add a markdown file for testing around.
 Reference: http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 **bold**
+
 *italic*
 
 ```
